@@ -1,5 +1,8 @@
 ## +++ This is a RC version of JC-miniLAPS +++
-## Version: RC 1.0
+## Version: RC 1.1
+##
+## UPDATE 1.1: Modified to use builtin .NET libraries to encrypted the password using RSA Pulbic Key
+##  before sending it to JC and added error handeling.
 ##
 ## Why is it called 'JC-miniLAPS'?
 ##   The aim was to create a similar capability to Microsoft's LAPS for Windows-devices
